@@ -19,13 +19,13 @@
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
-**[EcoBite](https://github.com/Saadia-Asghar/EcoBite)** - _Azure Founder's Hub Backed_ <br>
+**[EcoBite](https://github.com/Saadia-Asghar/EcoBite_)** - _Azure Founder's Hub Backed_ <br>
 A centralized food rescue and logistics platform connecting restaurants, NGOs, and shelters to minimize food waste in Pakistan.
-- **Highlights:** Real-time donation tracking, AI-powered food quality checks, and role-based dashboards.
+- **Highlights:** Real-time donation tracking, demo AI-powered food quality checks, and role-based dashboards.
 
-**[MoodMaze](https://github.com/Saadia-Asghar/MoodMaze)** <br>
+**[MoodMaze](https://github.com/Saadia-Asghar/Mood_Maze)** <br>
 An interactive movie recommendation application that suggests films based on the user's current mood.
-- **Highlights:** AI-powered movie recommendations, advanced filtering algorithms (DSA), glassmorphism UI, and mood-centric UX.
+- **Highlights:** AI-powered movie recommendations, advanced filtering algorithms (DSA).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,9 +49,4 @@ An interactive movie recommendation application that suggests films based on the
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Contribution Graph:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saadia-Asghar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Saadia-Asghar" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadia-Asghar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Saadia-Asghar" />
-</p>
