@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on **Open Source Social Impact Projects**
 - 💬 Ask me about **Data Science, SQL, Creative Coding, and Product Design**
 - 📫 How to reach me: **[saadianigah@gmail.com](mailto:saadianigah@gmail.com)**
-- ⚡ Fun fact: **I believe in "Vibe Coding" — blending logic with creativity!**
+- ⚡ Fun fact: **I believe in blending logic with creativity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
