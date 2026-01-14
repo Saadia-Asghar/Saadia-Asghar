@@ -11,23 +11,21 @@
 </p>
 
 - 🔭 I’m currently working on **EcoBite** (Food Rescue Platform) and **MoodMaze** (Mood-based Movie Recommender)
-- 🌱 I’m currently learning **Azure Cloud Services, Computer Vision & Advanced AI Integration**
+- 🌱 I’m currently learning **Azure Cloud Services, Python, Generative AI Agents (Google AI Studio) & Computer Vision**
 - 👯 I’m looking to collaborate on **Open Source Social Impact Projects**
 - 💬 Ask me about **Data Science, SQL, Creative Coding, and Product Design**
 - 📫 How to reach me: **[saadianigah@gmail.com](mailto:saadianigah@gmail.com)**
-- ⚡ Fun fact: **I believe in "Vibe Coding" — blending logic with creativity!**
+- ⚡ Fun fact: **I believe in blending logic with creativity!**
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
 **[EcoBite](https://github.com/Saadia-Asghar/EcoBite)** - _Azure Founder's Hub Backed_ <br>
 A centralized food rescue and logistics platform connecting restaurants, NGOs, and shelters to minimize food waste in Pakistan.
-- **Tech Stack:** React, Node.js, Azure (Maps, Vision, SQL), Stripe & JazzCash.
 - **Highlights:** Real-time donation tracking, AI-powered food quality checks, and role-based dashboards.
 
 **[MoodMaze](https://github.com/Saadia-Asghar/MoodMaze)** <br>
 An interactive movie recommendation application that suggests films based on the user's current mood.
-- **Tech Stack:** React, TMDB API, Vercel.
-- **Highlights:** Advanced filtering algorithms (DSA), glassmorphism UI, and mood-centric UX.
+- **Highlights:** AI-powered movie recommendations, advanced filtering algorithms (DSA), glassmorphism UI, and mood-centric UX.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,6 +45,7 @@ An interactive movie recommendation application that suggests films based on the
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
