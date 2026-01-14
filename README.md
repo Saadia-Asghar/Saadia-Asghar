@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/main/header_tech.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/main/github_header.png" width="100%" />
 </div>
 <br />
 
