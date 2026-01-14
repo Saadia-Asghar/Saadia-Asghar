@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/main/github_header.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/main/header_tech.png" width="100%" />
 </div>
+<br />
 
 <h1 align="center">Hi 👋, I'm Saadia Asghar</h1>
 <h3 align="center">Data Science Undergraduate @ GIKI || Real Life Projects and Open Source Projects</h3>
@@ -9,17 +10,30 @@
   <img src="https://komarev.com/ghpvc/?username=Saadia-Asghar&label=Profile%20Views&color=0e75b6&style=flat" alt="Saadia-Asghar" /> 
 </p>
 
-- 🔭 I’m currently working on **EcoBite_**, **Mood_Maze**, and **Chain_ticket**
+- 🔭 I’m currently working on **EcoBite** (Food Rescue Platform) and **MoodMaze** (Mood-based Movie Recommender)
 - 🌱 I’m currently learning **Azure Cloud Services, Computer Vision & Advanced AI Integration**
 - 👯 I’m looking to collaborate on **Open Source Social Impact Projects**
 - 💬 Ask me about **Data Science, SQL, Creative Coding, and Product Design**
 - 📫 How to reach me: **[saadianigah@gmail.com](mailto:saadianigah@gmail.com)**
-- ⚡ Fun fact: **I believe in blending logic with creativity!**
+- ⚡ Fun fact: **I believe in "Vibe Coding" — blending logic with creativity!**
+
+<h3 align="left">🚀 Featured Projects:</h3>
+
+**[EcoBite](https://github.com/Saadia-Asghar/EcoBite)** - _Azure Founder's Hub Backed_ <br>
+A centralized food rescue and logistics platform connecting restaurants, NGOs, and shelters to minimize food waste in Pakistan.
+- **Tech Stack:** React, Node.js, Azure (Maps, Vision, SQL), Stripe & JazzCash.
+- **Highlights:** Real-time donation tracking, AI-powered food quality checks, and role-based dashboards.
+
+**[MoodMaze](https://github.com/Saadia-Asghar/MoodMaze)** <br>
+An interactive movie recommendation application that suggests films based on the user's current mood.
+- **Tech Stack:** React, TMDB API, Vercel.
+- **Highlights:** Advanced filtering algorithms (DSA), glassmorphism UI, and mood-centric UX.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saadia-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadia-asghar" height="30" width="40" /></a>
 <a href="https://github.com/Saadia-Asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saadia-Asghar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s._bytes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s._bytes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +51,6 @@
 </p>
 
 <h3 align="left">Contribution Graph:</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadia-Asghar&theme=radical&hide_border=true" alt="Saadia-Asghar" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saadia-Asghar&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Saadia-Asghar" />
