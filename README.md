@@ -1,52 +1,181 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/main/github_header.png" width="100%" />
 </div>
+
 <br />
 
 <h1 align="center">Hi 👋, I'm Saadia Asghar</h1>
-<h3 align="center">Data Science Undergraduate @ GIKI || Real Life Projects and Open Source Projects</h3>
+<h3 align="center">Data Science Undergraduate @ GIKI | AI, Data & Real-World Impact Projects</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Saadia-Asghar&label=Profile%20Views&color=0e75b6&style=flat" alt="Saadia-Asghar" /> 
 </p>
 
-- 🔭 I’m currently working on **EcoBite** (Food Rescue Platform) and **MoodMaze** (Mood-based Movie Recommender)
-- 🌱 I’m currently learning **Azure Cloud Services, Python, Generative AI Agents (Google AI Studio) & Computer Vision**
-- 👯 I’m looking to collaborate on **Open Source Social Impact Projects**
-- 💬 Ask me about **Data Science, SQL, Creative Coding, and Product Design**
-- 📫 How to reach me: **[saadianigah@gmail.com](mailto:saadianigah@gmail.com)**
-- ⚡ Fun fact: **I believe in blending logic with creativity!**
+- 🔭 I’m currently working on **EcoBite (Food Rescue Platform)** and **CallPilot (AI Assistant Platform)**
+- 🌱 I’m currently learning **Azure Cloud Services, Generative AI Agents, and Advanced Python**
+- 👯 I’m looking to collaborate on **AI, Data Science, and Social Impact Open Source Projects**
+- 💬 Ask me about **Data Science, SQL, Creative Coding, Product Design, and Hackathons**
+- 📫 Reach me at **saadianigah@gmail.com**
+- ⚡ Fun fact: **I love blending logic with creativity to build meaningful products.**
 
-<h3 align="left">🚀 Featured Projects:</h3>
+---
 
-**[EcoBite](https://github.com/Saadia-Asghar/EcoBite_)** - _Azure Founder's Hub Backed_ <br>
-A centralized food rescue and logistics platform connecting restaurants, NGOs, and shelters to minimize food waste in Pakistan.
-- **Highlights:** Real-time donation tracking, demo AI-powered food quality checks, and role-based dashboards.
+# 🚀 Featured Projects
 
-**[MoodMaze](https://github.com/Saadia-Asghar/Mood_Maze)** <br>
-An interactive movie recommendation application that suggests films based on the user's current mood.
-- **Highlights:** AI-powered movie recommendations, advanced filtering algorithms (DSA).
+### **CallPilot — AI Assistant Platform**
+Top 10 Team, MIT Hack-Nation Global AI Hackathon  
 
-<h3 align="left">Connect with me:</h3>
+An AI-powered assistant platform focused on **task automation and intelligent user support**.
+
+**Highlights**
+- Designed full product workflow from **problem definition to working prototype**
+- Built system architecture for **AI-driven task automation**
+- Ranked **Top 10 globally among hackathon teams**
+
+---
+
+### **EcoBite — Food Waste Management Platform**
+Microsoft Imagine Cup Project  
+
+A centralized **food rescue and logistics platform** connecting restaurants, NGOs, and shelters to minimize food waste.
+
+**Highlights**
+- Built donation platform supporting **5 different user roles**
+- Developed **NGO and recycler dashboards**
+- Integrated **Azure AD B2C, SQL, and Maps**
+- Platform supports **weekly distribution of 500+ meals**
+- Improved donation participation by **30%**
+
+---
+
+### **ChaInTicket+ — Blockchain Ticketing System**
+3rd Place Nationwide Hackathon  
+
+A secure ticketing platform using **blockchain-based QR verification**.
+
+**Highlights**
+- Prevents ticket fraud using **blockchain verification**
+- Built **organizer dashboards for 1000+ attendees**
+- Automated QR validation system
+
+---
+
+### **MoodMaze — Mood Based Movie Recommendation Engine**
+
+An interactive **movie recommendation system** that suggests films based on a user's mood.
+
+**Highlights**
+- Implemented **rule-based recommendation algorithms**
+- Integrated **TMDB API**
+- Used **Firebase Authentication and Firestore**
+- Designed to reduce **decision fatigue**
+
+---
+
+### **EffortScope — Team Contribution Tracker**
+
+A productivity platform designed to track **team member contributions and workload distribution**.
+
+**Highlights**
+- Role-based team management system
+- Real-time contribution tracking
+- Designed for collaborative technical teams
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/saadia-asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadia-asghar" height="30" width="40" /></a>
-<a href="https://github.com/Saadia-Asghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Saadia-Asghar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/s._bytes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s._bytes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saadia-asghar" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/Saadia-Asghar" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/s._bytes/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+---
+
+# 🛠 Languages and Tools
+
+<p align="left">
+
+<a href="https://reactjs.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://azure.microsoft.com/">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</a>
+
 </p>
 
+---
 
+# 🧠 Technical Skills
+
+**Languages & Development**
+- Python
+- C++
+- JavaScript
+- HTML / CSS
+- SQL
+
+**Frameworks & Tools**
+- React
+- Pandas
+- NumPy
+- Matplotlib
+- Firebase
+- Microsoft Azure
+- Git / GitHub
+- VS Code
+- SFML
+
+**Design & Product**
+- Figma
+- Canva
+- Affinity Tools
+
+---
+
+# 🎓 Certifications
+
+- Introduction to Programming Using Python, SQL & Statistics — DataCamp  
+- Databases and SQL for Data Science — Coursera  
+- Graphic Design — DigiSkills Pakistan  
+- GitHub Foundations (Part 1 & 2) — Microsoft  
+- AI Agents Intensive — Kaggle (Google)
+
+---
+
+⭐ Always open to collaborating on **AI, Data Science, and impactful tech projects.**
