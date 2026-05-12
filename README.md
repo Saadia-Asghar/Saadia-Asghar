@@ -1,6 +1,6 @@
 <!-- ============================== BANNER ============================== -->
 <a href="https://github.com/Saadia-Asghar">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=hey%2C%20i'm%20saadia%20%E2%9C%A6&fontSize=58&fontAlignY=38&desc=data%20%E2%80%A2%20ai%20%E2%80%A2%20product%20%E2%80%A2%20a%20little%20bit%20chaotic&descAlign=50&descAlignY=62&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=hey%2C%20i'm%20saadia%20%E2%9C%A6&fontSize=62&fontAlignY=38&desc=data%20%E2%80%A2%20ai%20%E2%80%A2%20product%20%E2%80%A2%20a%20little%20bit%20chaotic&descAlign=50&descAlignY=62&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </a>
 
 <!-- ============================== TYPING ============================== -->
@@ -10,17 +10,18 @@
   </a>
 </p>
 
-<!-- ============================== QUICK BADGES ============================== -->
+<!-- ============================== METRICS STRIP ============================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saadia-Asghar&label=profile%20visitors&color=A855F7&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Saadia-Asghar?label=followers&style=for-the-badge&color=EC4899&labelColor=1f1f2e" alt="followers" />
   <img src="https://img.shields.io/github/stars/Saadia-Asghar?label=stars&style=for-the-badge&color=F59E0B&labelColor=1f1f2e" alt="stars" />
   <img src="https://img.shields.io/badge/status-shipping%20%26%20vibing-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="status" />
+  <img src="https://img.shields.io/badge/based%20in-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-0EA5E9?style=for-the-badge&labelColor=1f1f2e" alt="location" />
 </p>
 
 <br />
 
-<!-- ============================== HERO CTA — CONNECT ============================== -->
+<!-- ============================== HERO CONNECT CTA ============================== -->
 <div align="center">
 
 ```diff
@@ -33,20 +34,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20connect%20on-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="38" alt="linkedin" />
+    <img src="https://img.shields.io/badge/%F0%9F%92%BC%20connect%20on-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" alt="linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow%20me%20on-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="38" alt="instagram" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow%20me%20on-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
   </a>
 </p>
 
 <p align="center">
-  <sub>📩 dm's are <b>always open</b> — for hackathons, coffee chats, study buddies & cool ideas</sub>
+  <sub>📩 dm's are <b>always open</b> — hackathons, coffee chats, study buddies, cool ideas, fanmail (kidding) (...unless?)</sub>
 </p>
 
-<!-- divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=3&section=header" width="100%" alt="divider" />
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
 <br />
 
@@ -76,6 +77,7 @@ saadia:
   fun_fact:    "i name my plants after my favorite algorithms"
   email:       "saadianigah@gmail.com"
   open_to:     "collabs on AI + impact-driven projects"
+  philosophy:  "ship messy. iterate kindly. celebrate loudly."
 ```
 
 </td>
@@ -84,7 +86,7 @@ saadia:
 
 <br />
 
-<!-- ============================== CURRENTLY ============================== -->
+<!-- mood badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20shipping-CallPilot%20%2B%20EcoBite%20%2B%20skil__issue-A855F7?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20learning-Azure%20%26%20GenAI%20Agents-EC4899?style=for-the-badge&labelColor=1f1f2e" />
@@ -93,73 +95,104 @@ saadia:
 
 <br />
 
-<!-- divider -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/></p>
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
-<!-- ============================== ACHIEVEMENTS ============================== -->
+<!-- ============================== WALL OF WINS ============================== -->
 <h2 align="center">✦ wall of wins ✦</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%A5%88-2nd%20Place%20%E2%80%A2%20Hack%20Git%20Hackathon-C0C0C0?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%85-Top%2010%20Globally%20%E2%80%A2%20MIT%20Hack--Nation-A855F7?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%F0%9F%A5%89-3rd%20Place%20%E2%80%A2%20Nationwide%20Blockchain%20Hackathon-CD7F32?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86-Microsoft%20Imagine%20Cup%20Participant-EC4899?style=for-the-badge&labelColor=000000" />
+  <sub>the little gold stars on my dev resume 🌟</sub>
 </p>
 
 <br />
 
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🥈</h3>
+      <b>2nd Place</b><br/>
+      <sub>Hack Git Hackathon</sub><br/>
+      <sub><i>skil_issue</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🏅</h3>
+      <b>Top 10 Globally</b><br/>
+      <sub>MIT Hack-Nation</sub><br/>
+      <sub><i>CallPilot</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🥉</h3>
+      <b>3rd Place</b><br/>
+      <sub>Nationwide Blockchain</sub><br/>
+      <sub><i>ChaInTicket+</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🏆</h3>
+      <b>Imagine Cup</b><br/>
+      <sub>Microsoft</sub><br/>
+      <sub><i>EcoBite</i></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
 <!-- ============================== TECH STACK ============================== -->
 <h2 align="center">✦ my tech love language ✦</h2>
 
-<p align="center"><strong>languages i speak (fluently)</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <sub>the stack i've been romantically involved with 💜</sub>
 </p>
 
-<p align="center"><strong>frameworks & data</strong></p>
+<br />
+
+<p align="center"><b>languages</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,bash&theme=dark" alt="languages" />
+  </a>
 </p>
 
-<p align="center"><strong>cloud & daily drivers</strong></p>
+<p align="center"><b>frameworks & data</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,pandas,numpy,sklearn,tensorflow&theme=dark" alt="frameworks" />
+  </a>
 </p>
 
-<p align="center"><strong>design corner</strong></p>
+<p align="center"><b>cloud, db & daily drivers</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,vercel,supabase,firebase,postgres,mysql,git,github,vscode,postman&theme=dark" alt="cloud" />
+  </a>
+</p>
+
+<p align="center"><b>design corner</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="design" />
+  </a>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity-2B2A26?style=for-the-badge&logo=affinity&logoColor=white" />
 </p>
 
 <br />
 
-<!-- divider -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/></p>
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
 <!-- ============================== GITHUB STATS ============================== -->
 <h2 align="center">✦ the github receipts ✦</h2>
+
+<p align="center">
+  <sub>numbers don't lie, but they do flex 📊</sub>
+</p>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/Saadia-Asghar">
@@ -193,8 +226,25 @@ saadia:
 
 <br />
 
-<!-- divider -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/></p>
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
+<!-- ============================== PINNED PROJECTS (LIVE) ============================== -->
+<h2 align="center">✦ pinned & proud ✦</h2>
+
+<p align="center">
+  <sub>live cards — star count updates in real-time ⭐</sub>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/Skill_issue">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=Skill_issue&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+</p>
+
+<br />
 
 <!-- ============================== FEATURED PROJECTS ============================== -->
 <h2 align="center">✦ projects i'm low-key proud of ✦</h2>
@@ -292,8 +342,8 @@ saadia:
 
 <br />
 
-<!-- divider -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/></p>
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
 <!-- ============================== SPOTIFY ============================== -->
 <h2 align="center">✦ currently on repeat ✦</h2>
@@ -310,6 +360,9 @@ saadia:
 
 <br />
 
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
 <!-- ============================== CERTIFICATIONS ============================== -->
 <h2 align="center">✦ certified glow-ups ✦</h2>
 
@@ -323,10 +376,10 @@ saadia:
 
 <br />
 
-<!-- divider -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/></p>
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
-<!-- ============================== CONNECT (BIG CTA) ============================== -->
+<!-- ============================== FINAL BIG CONNECT CTA ============================== -->
 <h2 align="center">✦ let's actually be friends ✦</h2>
 
 <p align="center">
@@ -334,55 +387,46 @@ saadia:
   here's where to find me. i promise i reply (eventually):
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-let's%20network%20%E2%9C%A8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" />
-  </a>
-</p>
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-let's%20network%20%E2%9C%A8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="44" />
+      </a>
+      <br/><br/>
+      <sub>💼 <b>linkedin</b><br/>collabs, opps,<br/>referrals, recs</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.instagram.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-follow%20the%20chaos%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="44" />
+      </a>
+      <br/><br/>
+      <sub>📷 <b>instagram</b><br/>hackathon BTS,<br/>life updates, memes</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:saadianigah@gmail.com">
+        <img src="https://img.shields.io/badge/Email-drop%20a%20line%20%F0%9F%92%8C-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="44" />
+      </a>
+      <br/><br/>
+      <sub>📧 <b>email</b><br/>the serious<br/>business stuff</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-follow%20the%20chaos%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:saadianigah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadianigah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
-  </a>
   <a href="https://github.com/Saadia-Asghar">
     <img src="https://img.shields.io/badge/GitHub-Saadia--Asghar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7" />
   </a>
   <a href="https://saadia-asghar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-coming%20soon-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
-</p>
-
-<br />
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <sub>
-          💼 <b>linkedin</b><br/>
-          for collabs, opps,<br/>referrals, recs
-        </sub>
-      </td>
-      <td align="center">
-        <sub>
-          📷 <b>instagram</b><br/>
-          for hackathon BTS,<br/>life updates, memes
-        </sub>
-      </td>
-      <td align="center">
-        <sub>
-          📧 <b>email</b><br/>
-          for the serious<br/>business stuff
-        </sub>
-      </td>
-    </tr>
-  </table>
+  <a href="https://open.spotify.com/user/saadia" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" />
+  </a>
 </p>
 
 <br />
@@ -393,7 +437,7 @@ saadia:
 </p>
 
 <!-- ============================== FOOTER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=140&section=footer" alt="footer wave" />
 
 <p align="center">
   <sub>⭐ always down to collab on AI, data, and impactful tech &nbsp;•&nbsp; made with chai + late nights ✦<br/>
