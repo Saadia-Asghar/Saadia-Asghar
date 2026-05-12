@@ -21,6 +21,37 @@
 
 <br />
 
+<!-- ============================== QUICK NAV ============================== -->
+<p align="center">
+  <a href="#-saadiajson-"><img src="https://img.shields.io/badge/01-about-A855F7?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-character-sheet-"><img src="https://img.shields.io/badge/02-stats-EC4899?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-wall-of-wins-"><img src="https://img.shields.io/badge/03-wins-F59E0B?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-my-tech-love-language-"><img src="https://img.shields.io/badge/04-stack-0EA5E9?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-projects-im-low-key-proud-of-"><img src="https://img.shields.io/badge/05-projects-22C55E?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-lets-actually-be-friends-"><img src="https://img.shields.io/badge/06-connect-A855F7?style=for-the-badge&labelColor=000000" /></a>
+</p>
+
+<br />
+
+<!-- ============================== BOOT SEQUENCE ============================== -->
+<div align="center">
+
+```ansi
+[38;5;141m$[0m saadia --whoami
+[38;5;240m──────────────────────────────────────────────[0m
+[38;5;141m[ ✓ ][0m booting saadia.os v3.2.1 [████████████] 100%
+[38;5;141m[ ✓ ][0m mounting personality.fs ...................... ok
+[38;5;141m[ ✓ ][0m loading hackathon_wins.json (4 entries) ....... ok
+[38;5;141m[ ✓ ][0m injecting chai into bloodstream ............... critical
+[38;5;141m[ ✓ ][0m daemon ship_the_thing.service ................. running
+
+[38;5;213m> hi, i'm saadia ✦ data science undergrad @ giki[0m
+[38;5;213m> currently shipping: callpilot · ecobite · skil_issue[0m
+[38;5;213m> status: vibing in vs code @ 2:47 a.m. (peak performance)[0m
+```
+
+</div>
+
 <!-- ============================== HERO CONNECT CTA ============================== -->
 <div align="center">
 
@@ -51,33 +82,82 @@
 
 <br />
 
-<!-- ============================== ABOUT ============================== -->
-<h2 align="center">✦ about the girl ✦</h2>
+<!-- ============================== SAADIA.JSON ============================== -->
+<h2 align="center">✦ saadia.json ✦</h2>
 
 <p align="center">
-  <em>"i love blending logic with creativity to build meaningful products."</em>
+  <sub>my runtime profile, lovingly formatted 🧃</sub>
 </p>
 
-<p align="center">
-data science undergrad at <b>GIKI</b> who turns 2 a.m. ideas into shipped products.<br/>
-i live for hackathons, clean dashboards, and the "it works!!" moment.
-</p>
+<br />
 
 <table align="center">
   <tr>
     <td valign="top">
 
-```yaml
-saadia:
-  role:        "data science undergrad @ GIKI"
-  building:    ["CallPilot 🤖", "EcoBite 🌱", "skil_issue 🕹️"]
-  learning:    ["Azure ☁️", "GenAI Agents 🧠", "advanced Python 🐍"]
-  vibe:        ["AI", "data", "social impact", "creative coding"]
-  ask_me:      ["data science", "SQL", "product design", "hackathons"]
-  fun_fact:    "i name my plants after my favorite algorithms"
-  email:       "saadianigah@gmail.com"
-  open_to:     "collabs on AI + impact-driven projects"
-  philosophy:  "ship messy. iterate kindly. celebrate loudly."
+```jsonc
+{
+  "name":         "Saadia Asghar",
+  "type":         "human.v3.2.1",
+  "version":      "junior.dev.2026",
+  "status":       "ONLINE 🟢",
+  "location":     "Pakistan 🇵🇰",
+  "role":         "data science undergrad @ GIKI",
+
+  "now_playing": {
+    "code":      "Skill_issue · Next.js 15",
+    "song":      "tbd — check spotify ↓",
+    "thought":   "what if we used vector embeddings for..."
+  },
+
+  "active_quests": ["CallPilot 🤖", "EcoBite 🌱", "skil_issue 🕹️"],
+  "side_quests":   ["Azure ☁️", "GenAI Agents 🧠", "advanced Python 🐍"],
+
+  "vibes":         ["AI", "data", "social impact", "creative coding"],
+  "ask_me_about":  ["data science", "SQL", "product design", "hackathons"],
+
+  "fun_fact":      "i name my plants after my favorite algorithms",
+  "philosophy":    "ship messy. iterate kindly. celebrate loudly.",
+  "email":         "saadianigah@gmail.com",
+  "open_to":       "collabs on AI + impact-driven projects"
+}
+```
+
+</td>
+  </tr>
+</table>
+
+<br />
+
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
+<!-- ============================== CHARACTER SHEET ============================== -->
+<h2 align="center">✦ character sheet ✦</h2>
+
+<p align="center">
+  <sub>level 3 data science undergrad · class: <b>builder/strategist</b> · alignment: <b>chaotic helpful</b></sub>
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  STR  ·  full-stack development            ████████░░  82%  │
+│  INT  ·  data science & ml                 █████████░  90%  │
+│  DEX  ·  product design / figma            ████████░░  78%  │
+│  WIS  ·  hackathon strategy                █████████░  88%  │
+│  CHA  ·  pitching ideas to humans          ████████░░  85%  │
+│  LCK  ·  finding bugs at the worst time    ██████████  99%  │
+└─────────────────────────────────────────────────────────────┘
+   ⚡ special move:  "i'll just stay up one more hour"
+   🎒 inventory:     vscode · figma · chai · spotify premium · vibes
+   🛡️ resistances:   imposter syndrome (advanced), rejection (mid)
+   💎 weakness:      seeing a good dataset & wanting to play with it
 ```
 
 </td>
@@ -92,6 +172,44 @@ saadia:
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20learning-Azure%20%26%20GenAI%20Agents-EC4899?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%E2%98%95%20fueled%20by-chai%20%2B%20deadlines-F59E0B?style=for-the-badge&labelColor=1f1f2e" />
 </p>
+
+<br />
+
+<!-- ============================== YES / NO ============================== -->
+<h2 align="center">✦ the energy i'm bringing in 2026 ✦</h2>
+
+<br />
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+
+**`saying yes to ✅`**
+
+- shipping at 80% > waiting for 100%
+- dashboards with personality
+- hackathons (yes, even at 2am)
+- mentoring juniors and being mentored
+- making weird side projects on purpose
+- coffee chats with strangers on the internet
+- documenting things so future-saadia doesn't suffer
+
+</td>
+    <td width="50%" align="left" valign="top">
+
+**`saying no to ❌`**
+
+- gatekeeping tutorials
+- "boring" enterprise dashboards
+- meetings that should've been a slack
+- pull requests without a description
+- frameworks of the week (i'm picky now)
+- 4 a.m. bugs (you've had your fun)
+- saying yes to things that don't spark something
+
+</td>
+  </tr>
+</table>
 
 <br />
 
@@ -229,7 +347,7 @@ saadia:
 <!-- thin gradient divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
-<!-- ============================== PINNED PROJECTS (LIVE) ============================== -->
+<!-- ============================== PINNED ============================== -->
 <h2 align="center">✦ pinned & proud ✦</h2>
 
 <p align="center">
@@ -345,7 +463,7 @@ saadia:
 <!-- thin gradient divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
-<!-- ============================== SPOTIFY ============================== -->
+<!-- ============================== NOW PLAYING ============================== -->
 <h2 align="center">✦ currently on repeat ✦</h2>
 
 <p align="center">
@@ -379,7 +497,7 @@ saadia:
 <!-- thin gradient divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
-<!-- ============================== FINAL BIG CONNECT CTA ============================== -->
+<!-- ============================== BIG CONNECT CTA ============================== -->
 <h2 align="center">✦ let's actually be friends ✦</h2>
 
 <p align="center">
@@ -428,6 +546,28 @@ saadia:
     <img src="https://img.shields.io/badge/Spotify-vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" />
   </a>
 </p>
+
+<br />
+
+<!-- ============================== GUESTBOOK ============================== -->
+<div align="center">
+
+```js
+// ✦ guestbook.js
+// you scrolled all the way down. that's a commitment 💜
+// if anything here made you smile, learn, or think...
+// drop a ⭐ on a repo so future-saadia knows you were here.
+
+const visitor = {
+  name: "you",
+  mood: "inspired, hopefully",
+  next_move: () => console.log("starring a repo + saying hi 👋")
+}
+
+visitor.next_move() // → 👋 thank you for visiting
+```
+
+</div>
 
 <br />
 
