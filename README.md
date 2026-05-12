@@ -6,7 +6,7 @@
 <!-- ============================== TYPING ============================== -->
 <p align="center">
   <a href="https://github.com/Saadia-Asghar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=720&lines=data+science+undergrad+%40+GIKI;currently+in+my+%22ship+the+thing%22+era+%F0%9F%9A%80;top+10+%E2%80%A2+MIT+hack-nation+global+AI+hackathon;microsoft+imagine+cup+%E2%80%A2+ecobite+builder;logic+%2B+creativity+%3D+my+love+language+%E2%9C%A8" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=720&lines=data+science+undergrad+%40+GIKI;currently+in+my+%22ship+the+thing%22+era+%F0%9F%9A%80;top+10+%E2%80%A2+MIT+hack-nation+global+AI+hackathon;2nd+place+%E2%80%A2+hack+git+hackathon+%F0%9F%A5%88;microsoft+imagine+cup+%E2%80%A2+ecobite+builder;logic+%2B+creativity+%3D+my+love+language+%E2%9C%A8" alt="Typing animation" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ i live for hackathons, clean dashboards, and the "it works!!" moment.
 ```yaml
 saadia:
   role:        "data science undergrad @ GIKI"
-  building:    ["CallPilot 🤖", "EcoBite 🌱"]
+  building:    ["CallPilot 🤖", "EcoBite 🌱", "skil_issue 🕹️"]
   learning:    ["Azure ☁️", "GenAI Agents 🧠", "advanced Python 🐍"]
   vibe:        ["AI", "data", "social impact", "creative coding"]
   ask_me:      ["data science", "SQL", "product design", "hackathons"]
@@ -55,7 +55,7 @@ saadia:
 
 <!-- ============================== CURRENTLY ============================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20shipping-CallPilot%20%2B%20EcoBite-A855F7?style=for-the-badge&labelColor=1f1f2e" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20shipping-CallPilot%20%2B%20EcoBite%20%2B%20skil__issue-A855F7?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20learning-Azure%20%26%20GenAI%20Agents-EC4899?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%E2%98%95%20fueled%20by-chai%20%2B%20deadlines-F59E0B?style=for-the-badge&labelColor=1f1f2e" />
 </p>
@@ -207,11 +207,28 @@ saadia:
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Saadia-Asghar/Skill_issue">skil_issue 🕹️</a></h3>
+      <p align="center"><em>the cognitive arena — leetcode of learning</em><br/>
+        <img src="https://img.shields.io/badge/Hack%20Git%20Hackathon-2nd%20Place-C0C0C0?style=flat-square&logo=github&logoColor=white" />
+      </p>
+      <p>
+        an arcade-style study platform that figures out which learning style actually sticks for you.
+        <br/><br/>
+        ✦ <b>influencer personas</b> turn dry text into viral-style explanations<br/>
+        ✦ <b>1v1 blitz</b> + global dean's list elo leaderboard<br/>
+        ✦ <b>Next.js 15 + Supabase + Clerk + Vercel AI SDK</b>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">EffortScope 📊</h3>
       <p align="center"><em>team contribution tracker</em></p>
-      <p align="center">
-        a productivity tool that shows who's actually carrying the group project — real-time contribution tracking, role-based access, and clean analytics for collaborative tech teams.
+      <p>
+        a productivity tool that shows who's actually carrying the group project.
+        <br/><br/>
+        ✦ real-time contribution tracking<br/>
+        ✦ role-based team management<br/>
+        ✦ clean analytics for collaborative tech teams
       </p>
     </td>
   </tr>
