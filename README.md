@@ -10,13 +10,20 @@
   </a>
 </p>
 
+<!-- ============================== NOW WIDGET ============================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2-online-22C55E?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Pakistan-0EA5E9?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F%20building-skil__issue-A855F7?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%96%20reading-Designing%20ML%20Systems-EC4899?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%E2%98%95%20mood-chai%20%26%20chaos-F59E0B?style=flat-square&labelColor=000000" />
+</p>
+
 <!-- ============================== METRICS STRIP ============================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saadia-Asghar&label=profile%20visitors&color=A855F7&style=for-the-badge" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Saadia-Asghar?label=followers&style=for-the-badge&color=EC4899&labelColor=1f1f2e" alt="followers" />
   <img src="https://img.shields.io/github/stars/Saadia-Asghar?label=stars&style=for-the-badge&color=F59E0B&labelColor=1f1f2e" alt="stars" />
-  <img src="https://img.shields.io/badge/status-shipping%20%26%20vibing-A855F7?style=for-the-badge&labelColor=1f1f2e" alt="status" />
-  <img src="https://img.shields.io/badge/based%20in-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-0EA5E9?style=for-the-badge&labelColor=1f1f2e" alt="location" />
 </p>
 
 <br />
@@ -25,10 +32,11 @@
 <p align="center">
   <a href="#-saadiajson-"><img src="https://img.shields.io/badge/01-about-A855F7?style=for-the-badge&labelColor=000000" /></a>
   <a href="#-character-sheet-"><img src="https://img.shields.io/badge/02-stats-EC4899?style=for-the-badge&labelColor=000000" /></a>
-  <a href="#-wall-of-wins-"><img src="https://img.shields.io/badge/03-wins-F59E0B?style=for-the-badge&labelColor=000000" /></a>
-  <a href="#-my-tech-love-language-"><img src="https://img.shields.io/badge/04-stack-0EA5E9?style=for-the-badge&labelColor=000000" /></a>
-  <a href="#-projects-im-low-key-proud-of-"><img src="https://img.shields.io/badge/05-projects-22C55E?style=for-the-badge&labelColor=000000" /></a>
-  <a href="#-lets-actually-be-friends-"><img src="https://img.shields.io/badge/06-connect-A855F7?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-ship-log-"><img src="https://img.shields.io/badge/03-ships-22C55E?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-wall-of-wins-"><img src="https://img.shields.io/badge/04-wins-F59E0B?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-my-tech-love-language-"><img src="https://img.shields.io/badge/05-stack-0EA5E9?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-projects-im-low-key-proud-of-"><img src="https://img.shields.io/badge/06-projects-C084FC?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-lets-actually-be-friends-"><img src="https://img.shields.io/badge/07-connect-FB7185?style=for-the-badge&labelColor=000000" /></a>
 </p>
 
 <br />
@@ -166,12 +174,73 @@
 
 <br />
 
+<details align="center">
+<summary><b>📈 fun stats (no actual science was done here)</b></summary>
+
+<br />
+
+```
+commits made between midnight and 4 a.m. ............ ████████░░  78%
+coffee : code ratio ................................. 1 ☕ : 1.2 PR
+"it works on my machine" instances .................. 6 (last week)
+plants killed despite naming them after algorithms ... 2 (RIP DFS, ε-greedy)
+times git reset --hard saved me ..................... 14
+times git reset --hard ruined me .................... 1 (we don't talk about it)
+hackathons survived this year ....................... 5
+sleep schedule ...................................... 404 not found
+```
+
+</details>
+
+<br />
+
 <!-- mood badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20shipping-CallPilot%20%2B%20EcoBite%20%2B%20skil__issue-A855F7?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20learning-Azure%20%26%20GenAI%20Agents-EC4899?style=for-the-badge&labelColor=1f1f2e" />
   <img src="https://img.shields.io/badge/%E2%98%95%20fueled%20by-chai%20%2B%20deadlines-F59E0B?style=for-the-badge&labelColor=1f1f2e" />
 </p>
+
+<br />
+
+<!-- thin gradient divider -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
+<!-- ============================== SHIP LOG ============================== -->
+<h2 align="center">✦ ship log ✦</h2>
+
+<p align="center">
+  <sub>receipts, but make it chronological 🚢</sub>
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td>
+
+```
+2026  ┃
+      ┃  🕹️  skil_issue            →  2nd place · Hack Git Hackathon
+      ┃  🤖  CallPilot             →  Top 10 globally · MIT Hack-Nation
+      ┃
+2025  ┃
+      ┃  🌱  EcoBite               →  Microsoft Imagine Cup project
+      ┃  🎟️  ChaInTicket+         →  3rd place · Nationwide Hackathon
+      ┃  📊  EffortScope            →  shipped (in active use)
+      ┃
+2024  ┃
+      ┃  🎬  MoodMaze               →  rule-based recsys, TMDB integration
+      ┃  🎓  joined GIKI            →  data science · year one unlocked
+      ┃
+      ●  next  ┐
+               │  hint: it involves agents 👀
+               ┘
+```
+
+</td>
+  </tr>
+</table>
 
 <br />
 
@@ -190,9 +259,9 @@
 - dashboards with personality
 - hackathons (yes, even at 2am)
 - mentoring juniors and being mentored
-- making weird side projects on purpose
-- coffee chats with strangers on the internet
-- documenting things so future-saadia doesn't suffer
+- weird side projects on purpose
+- coffee chats with internet strangers
+- docs so future-saadia doesn't suffer
 
 </td>
     <td width="50%" align="left" valign="top">
@@ -202,10 +271,10 @@
 - gatekeeping tutorials
 - "boring" enterprise dashboards
 - meetings that should've been a slack
-- pull requests without a description
+- PRs without a description
 - frameworks of the week (i'm picky now)
 - 4 a.m. bugs (you've had your fun)
-- saying yes to things that don't spark something
+- things that don't spark something
 
 </td>
   </tr>
@@ -325,22 +394,24 @@
   </a>
 </p>
 
+<details align="center">
+<summary><b>🔬 see more stats (activity graph · trophies · contribution snake)</b></summary>
+
+<br />
+
 <p align="center">
-  <a href="https://github.com/Saadia-Asghar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadia-Asghar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=F59E0B&area=true&area_color=A855F7" alt="activity graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadia-Asghar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=F59E0B&area=true&area_color=A855F7" alt="activity graph" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saadia-Asghar">
-    <img src="https://github-profile-trophy.vercel.app/?username=Saadia-Asghar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saadia-Asghar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
-<!-- snake animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
 </p>
+
+</details>
 
 <br />
 
@@ -351,7 +422,7 @@
 <h2 align="center">✦ pinned & proud ✦</h2>
 
 <p align="center">
-  <sub>live cards — star count updates in real-time ⭐</sub>
+  <sub>live card — star count updates in real-time ⭐</sub>
 </p>
 
 <br />
@@ -430,6 +501,16 @@
       </p>
     </td>
   </tr>
+</table>
+
+<br />
+
+<details align="center">
+<summary><b>🎁 there's more — click for the b-sides</b></summary>
+
+<br />
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">MoodMaze 🎬</h3>
@@ -458,6 +539,8 @@
   </tr>
 </table>
 
+</details>
+
 <br />
 
 <!-- thin gradient divider -->
@@ -478,11 +561,10 @@
 
 <br />
 
-<!-- thin gradient divider -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+<details align="center">
+<summary><b>🎓 certified glow-ups (click to expand)</b></summary>
 
-<!-- ============================== CERTIFICATIONS ============================== -->
-<h2 align="center">✦ certified glow-ups ✦</h2>
+<br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/DataCamp-Python%20%2B%20SQL%20%2B%20Stats-03EF62?style=for-the-badge&logo=datacamp&logoColor=white" />
@@ -491,6 +573,8 @@
   <img src="https://img.shields.io/badge/Kaggle-AI%20Agents%20Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/DigiSkills-Graphic%20Design-FF6F61?style=for-the-badge" />
 </p>
+
+</details>
 
 <br />
 
@@ -568,6 +652,16 @@ visitor.next_move() // → 👋 thank you for visiting
 ```
 
 </div>
+
+<br />
+
+<!-- ============================== FORK CTA ============================== -->
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/Saadia-Asghar/fork">
+    <img src="https://img.shields.io/badge/%F0%9F%8D%B4%20like%20this%20readme%3F-fork%20it-A855F7?style=for-the-badge&labelColor=000000" />
+  </a>
+  <sub><br/><i>made it from scratch — steal the vibe, not the wins 😉</i></sub>
+</p>
 
 <br />
 
