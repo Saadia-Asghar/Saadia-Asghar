@@ -394,21 +394,26 @@ sleep schedule ...................................... 404 not found
   </a>
 </p>
 
-<details align="center">
-<summary><b>🔬 see more stats (activity graph · trophies · contribution snake)</b></summary>
-
-<br />
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadia-Asghar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=EC4899&point=F59E0B&area=true&area_color=A855F7" alt="activity graph" />
 </p>
 
+<!-- snake animation (renders from output branch via Platane/snk) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saadia-Asghar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
+<details align="center">
+<summary><b>🏆 see github trophies</b></summary>
+
+<br />
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saadia-Asghar/Saadia-Asghar/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saadia-Asghar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
 </details>
