@@ -72,12 +72,12 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/saadia-asghar" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%92%BC%20connect%20on-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow%20me%20on-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
+  <a href="https://www.instagram.com/s._bytes/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow-%40s._bytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
   </a>
 </p>
 
@@ -594,18 +594,18 @@ sleep schedule ...................................... 404 not found
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://www.linkedin.com/" target="_blank">
+      <a href="https://www.linkedin.com/in/saadia-asghar" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-let's%20network%20%E2%9C%A8-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="44" />
       </a>
       <br/><br/>
       <sub>💼 <b>linkedin</b><br/>collabs, opps,<br/>referrals, recs</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.instagram.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-follow%20the%20chaos%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="44" />
+      <a href="https://www.instagram.com/s._bytes/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%40s._bytes%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="44" />
       </a>
       <br/><br/>
-      <sub>📷 <b>instagram</b><br/>hackathon BTS,<br/>life updates, memes</sub>
+      <sub>📷 <b>@s._bytes</b><br/>hackathon BTS,<br/>life updates, memes</sub>
     </td>
     <td align="center" width="33%">
       <a href="mailto:saadianigah@gmail.com">
