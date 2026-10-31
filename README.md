@@ -106,17 +106,13 @@
     <img src="https://img.shields.io/badge/%F0%9F%92%BC%20connect%20on-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/s._bytes/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow-%40s._bytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
+  <a href="https://www.instagram.com/saadiaasghar_" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow-%40saadiaasghar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://www.instagram.com/saadiaasghar_" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20also-%40saadiaasghar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram saadiaasghar_" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://portfoliosaadia.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/%E2%9C%A6%20the%20moving-PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42" alt="portfolio" />
   </a>
@@ -953,11 +949,11 @@ sleep schedule ...................................... 404 not found
       <sub>💼 <b>linkedin</b><br/>collabs, opps,<br/>referrals, recs</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://www.instagram.com/s._bytes/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%40s._bytes%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="44" />
+      <a href="https://www.instagram.com/saadiaasghar_" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%40saadiaasghar_%20%F0%9F%93%B7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="44" />
       </a>
       <br/><br/>
-      <sub>📷 <b>@s._bytes</b><br/>hackathon BTS,<br/>life updates, memes</sub>
+      <sub>📷 <b>@saadiaasghar_</b><br/>hackathon BTS,<br/>life updates, memes</sub>
     </td>
     <td align="center" width="33%">
       <a href="mailto:saadianigah@gmail.com">
