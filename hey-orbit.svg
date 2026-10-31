@@ -46,7 +46,7 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
     <text x="380" y="118" fill="#dff25a" font-family="ui-monospace, monospace" font-size="16">$ open kg-rag</text>
-    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">the research · public repo</text>
+    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">KG-RAG vs RMF-RAG</text>
     <text x="380" y="176" fill="#A855F7" font-family="ui-monospace, monospace" font-size="16">biomedical retrieval pilot</text>
   </g>
   <g opacity="0">

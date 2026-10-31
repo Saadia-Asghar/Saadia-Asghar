@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://portfoliosaadia.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=DFF25A&background=140F22&center=true&vCenter=true&width=740&height=46&lines=%24+open+callpilot;%24+open+skil_issue;%24+open+kg-rag;%24+hey%2C+the+research+is+public" alt="hey, a terminal typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=DFF25A&background=140F22&center=true&vCenter=true&width=740&height=46&lines=%24+open+callpilot;%24+open+skil_issue;%24+open+kg-rag;%24+najoomi+%C2%B7+memory+and+rag" alt="hey, a terminal typing" />
   </a>
 </p>
 
