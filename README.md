@@ -461,7 +461,7 @@ sleep schedule ...................................... 404 not found
 | --- | --- | --- |
 | UROG | Director of Marketing | active · May 2026 · the post sits on the executive council · Officer Education before that |
 | Canva | Ambassador + community lead | active |
-| Replit | Campus Ambassador | active |
+| Replit | Campus Ambassador · HackSummer Islamabad | active |
 | atomcamp | Campus Ambassador | active |
 | GDGoC GIKI | Core team | ended |
 | Hult Prize, GIKI | Sponsorship Lead | active · Oct 2026 |
@@ -970,9 +970,6 @@ sleep schedule ...................................... 404 not found
 <p align="center">
   <a href="https://github.com/Saadia-Asghar">
     <img src="https://img.shields.io/badge/GitHub-Saadia--Asghar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7" />
-  </a>
-  <a href="https://saadia-asghar.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-coming%20soon-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://portfoliosaadia.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/live-portfoliosaadia.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
