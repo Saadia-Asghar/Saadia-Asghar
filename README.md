@@ -461,7 +461,7 @@ sleep schedule ...................................... 404 not found
 | --- | --- | --- |
 | UROG | Director of Marketing | active · May 2026 · the post sits on the executive council · Officer Education before that |
 | Canva | Ambassador + community lead | active |
-| Replit | Campus Ambassador · HackSummer Islamabad | active |
+| Replit | Campus Ambassador | active |
 | atomcamp | Campus Ambassador | active |
 | GDGoC GIKI | Core team | ended |
 | Hult Prize, GIKI | Sponsorship Lead | active · Oct 2026 |
