@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="250" viewBox="0 0 920 250">
+  <rect width="920" height="250" rx="28" fill="#140f22"/>
+  <text x="28" y="34" fill="#dff25a" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">HEY · THE BUILDS ARE SPINNING</text>
+
+  <g transform="translate(168,132)">
+    <circle r="78" fill="none" stroke="#A855F7" stroke-opacity="0.45" stroke-dasharray="3 8"/>
+    <circle r="50" fill="none" stroke="#F59E0B" stroke-opacity="0.55"/>
+    <circle r="22" fill="#F59E0B"/>
+    <text y="5" text-anchor="middle" fill="#140f22" font-family="Georgia, serif" font-size="14">hey</text>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+      <circle cy="-78" r="7" fill="#EC4899"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="140" to="500" dur="13s" repeatCount="indefinite"/>
+      <circle cy="-50" r="6" fill="#22C55E"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="250" to="610" dur="17s" repeatCount="indefinite"/>
+      <circle cy="-78" r="5" fill="#dff25a"/>
+    </g>
+  </g>
+
+  <text x="28" y="228" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="13">CallPilot</text>
+  <text x="130" y="228" fill="#F59E0B" font-family="ui-monospace, monospace" font-size="13">skil_issue</text>
+  <text x="230" y="228" fill="#C084FC" font-family="ui-monospace, monospace" font-size="13">KG-RAG</text>
+
+  <rect x="360" y="56" width="532" height="156" rx="16" fill="#0d0a16" stroke="#A855F7" stroke-opacity="0.45"/>
+  <circle cx="382" cy="76" r="5" fill="#EC4899"/>
+  <circle cx="398" cy="76" r="5" fill="#F59E0B"/>
+  <circle cx="414" cy="76" r="5" fill="#22C55E"/>
+  <text x="436" y="80" fill="#f6f0e6" fill-opacity="0.55" font-family="ui-monospace, monospace" font-size="12">saadia.os</text>
+
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.22;0.25;1" dur="16s" repeatCount="indefinite"/>
+    <text x="380" y="118" fill="#dff25a" font-family="ui-monospace, monospace" font-size="16">$ open callpilot</text>
+    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">top 10 · MIT · live</text>
+    <text x="380" y="176" fill="#A855F7" font-family="ui-monospace, monospace" font-size="16">callpilot-control.vercel.app</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="16s" repeatCount="indefinite"/>
+    <text x="380" y="118" fill="#dff25a" font-family="ui-monospace, monospace" font-size="16">$ open skil_issue</text>
+    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">2nd · Hack Git · live</text>
+    <text x="380" y="176" fill="#A855F7" font-family="ui-monospace, monospace" font-size="16">skill-issue-s1oh.vercel.app</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+    <text x="380" y="118" fill="#dff25a" font-family="ui-monospace, monospace" font-size="16">$ open kg-rag</text>
+    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">the research · public repo</text>
+    <text x="380" y="176" fill="#A855F7" font-family="ui-monospace, monospace" font-size="16">biomedical retrieval pilot</text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.75;0.78;1" dur="16s" repeatCount="indefinite"/>
+    <text x="380" y="118" fill="#dff25a" font-family="ui-monospace, monospace" font-size="16">$ open quicktalk</text>
+    <text x="380" y="146" fill="#f6f0e6" font-family="ui-monospace, monospace" font-size="16">Najoomi · Jul-Sep 2026</text>
+    <text x="380" y="176" fill="#A855F7" font-family="ui-monospace, monospace" font-size="16">Flask · Pinecone · memory</text>
+  </g>
+
+  <rect x="868" y="196" width="8" height="16" fill="#dff25a">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -10,6 +10,20 @@
   </a>
 </p>
 
+
+<!-- ============================== MORE TYPING (added) ============================== -->
+<p align="center">
+  <a href="https://portfoliosaadia.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=F59E0B&center=true&vCenter=true&width=740&lines=hey+.+.+.+agents%2C+data%2C+research;callpilot+%C2%B7+top+10+%C2%B7+mit;skil_issue+%C2%B7+2nd+%C2%B7+hack+git;kg-rag+%C2%B7+the+research;najoomi+%C2%B7+memory+and+rag" alt="hey, more typing" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfoliosaadia.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=DFF25A&background=140F22&center=true&vCenter=true&width=740&height=46&lines=%24+open+callpilot;%24+open+skil_issue;%24+open+kg-rag;%24+hey%2C+the+research+is+public" alt="hey, a terminal typing" />
+  </a>
+</p>
+
 <!-- ============================== NOW WIDGET ============================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2-online-22C55E?style=flat-square&labelColor=000000" />
@@ -37,6 +51,9 @@
   <a href="#-my-tech-love-language-"><img src="https://img.shields.io/badge/05-stack-0EA5E9?style=for-the-badge&labelColor=000000" /></a>
   <a href="#-projects-im-low-key-proud-of-"><img src="https://img.shields.io/badge/06-projects-C084FC?style=for-the-badge&labelColor=000000" /></a>
   <a href="#-lets-actually-be-friends-"><img src="https://img.shields.io/badge/07-connect-FB7185?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-the-roles-im-actually-in-"><img src="https://img.shields.io/badge/08-roles-22C55E?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-hey-the-tech-side-"><img src="https://img.shields.io/badge/09-builds-F59E0B?style=for-the-badge&labelColor=000000" /></a>
+  <a href="#-hey-the-design-side-"><img src="https://img.shields.io/badge/10-design-EC4899?style=for-the-badge&labelColor=000000" /></a>
 </p>
 
 <br />
@@ -60,6 +77,19 @@
 
 </div>
 
+
+<!-- extra boot lines, same terminal, nothing above was touched -->
+<div align="center">
+
+```ansi
+[38;5;141m$[0m saadia --tech
+[38;5;213m> callpilot · skil_issue · ecobite · chainticket · moodmaze[0m
+[38;5;213m> research · kg-rag · biomedical retrieval[0m
+[38;5;213m> najoomi · jul–sep 2026 · memory, rag, quicktalk pinecone[0m
+```
+
+</div>
+
 <!-- ============================== HERO CONNECT CTA ============================== -->
 <div align="center">
 
@@ -78,6 +108,17 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/s._bytes/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%93%B7%20follow-%40s._bytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.instagram.com/saadiaasghar_" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%93%B7%20also-%40saadiaasghar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" height="42" alt="instagram saadiaasghar_" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portfoliosaadia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/%E2%9C%A6%20the%20moving-PORTFOLIO-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42" alt="portfolio" />
   </a>
 </p>
 
@@ -206,6 +247,244 @@ sleep schedule ...................................... 404 not found
 <!-- thin gradient divider -->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
 
+
+<!-- ============================== TECH + RESEARCH (added) ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=240&section=header&text=hey%2C%20open%20a%20build&fontSize=46&fontAlignY=30&desc=agents%20%C2%B7%20data%20%C2%B7%20research&descAlignY=46&animation=fadeIn&fontColor=ffffff" alt="hey, open a build" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./hey-orbit.svg" alt="orbit of CallPilot, skil_issue, KG-RAG, and QuickTalk" width="100%" />
+</p>
+
+<h2 align="center" id="-hey-the-tech-side-">✦ hey, the tech side ✦</h2>
+
+<p align="center">
+  <sub>live demos and the repos 🤖</sub>
+</p>
+
+<div align="center">
+
+```ansi
+[38;5;141m$[0m ls ~/builds
+[38;5;213m> skil_issue    callpilot    ecobite       chainticket[0m
+[38;5;213m> giki-connect  moodmaze     quicktalk     darzi-khata[0m
+[38;5;213m> donorbridge   effortscope  water         hunar-naqsha[0m
+```
+
+</div>
+
+<p align="center">
+  <a href="https://skill-issue-s1oh.vercel.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fskill-issue-s1oh.vercel.app&label=skil_issue&style=for-the-badge&up_message=live&down_message=down&up_color=22C55E&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="skil_issue status" /></a>
+  <a href="https://callpilot-control.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcallpilot-control.vercel.app&label=CallPilot&style=for-the-badge&up_message=live&down_message=down&up_color=A855F7&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="CallPilot status" /></a>
+  <a href="https://ecobite-iota.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fecobite-iota.vercel.app&label=EcoBite&style=for-the-badge&up_message=live&down_message=down&up_color=F59E0B&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="EcoBite status" /></a>
+  <a href="https://chain-ticket.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fchain-ticket.vercel.app&label=ChainTicket&style=for-the-badge&up_message=live&down_message=down&up_color=EC4899&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="ChainTicket status" /></a>
+  <a href="https://moodmaze.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmoodmaze.vercel.app&label=MoodMaze&style=for-the-badge&up_message=live&down_message=down&up_color=0EA5E9&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="MoodMaze status" /></a>
+  <a href="https://portfoliosaadia.vercel.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fportfoliosaadia.vercel.app&label=portfolio&style=for-the-badge&up_message=live&down_message=down&up_color=C084FC&down_color=000000&logo=vercel&logoColor=white&labelColor=000000" alt="portfolio status" /></a>
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td>
+
+| build | what it does | open |
+| --- | --- | --- |
+| skil_issue | 2nd · Hack Git. teaching style that sticks, then quizzes and 1v1 blitz | [live](https://skill-issue-s1oh.vercel.app/) · [code](https://github.com/Saadia-Asghar/Skill_issue) |
+| CallPilot | Top 10 · MIT Hack-Nation. calls, memory, scheduling | [live](https://callpilot-control.vercel.app) · [code](https://github.com/Saadia-Asghar/callpilot-control) |
+| EcoBite | Imagine Cup, with Fatima Tuz Zahra. surplus food, Azure | [live](https://ecobite-iota.vercel.app) · [code](https://github.com/Saadia-Asghar/Ecobite_) |
+| ChainTicket | 3rd · BASE Web3. tickets checked on-chain, not by screenshot | [live](https://chain-ticket.vercel.app) · [code](https://github.com/Saadia-Asghar/Chain_ticket) |
+| GIKI-Connect | who actually meets whom on campus. chi-square, k-means, a silo index | [live](https://saadia-asghar.github.io/Giki-Connect/) · [code](https://github.com/Saadia-Asghar/Giki-Connect) |
+| MoodMaze | a mood in, three films out. TMDB plus a max-heap | [live](https://moodmaze.vercel.app) · [code](https://github.com/Saadia-Asghar/Mood_Maze) |
+| QuickTalk | Najoomi. Flask and Pinecone. a three-bullet handoff for the next agent | [code](https://github.com/Saadia-Asghar/quicktalk-pinecone-memory) |
+| Darzi Khata | offline ledger for a tailor. Urdu and English | [code](https://github.com/Saadia-Asghar/darzi-khata) |
+| DonorBridge | donor questions answered from Postgres, every turn logged | [code](https://github.com/Saadia-Asghar/DonorBridge) |
+| EffortScope | local tracker for who is carrying the group project | [code](https://github.com/Saadia-Asghar/Effort_Scope) |
+| water potability | Naive Bayes on 800 samples. when to change the filter | [code](https://github.com/Saadia-Asghar/water-probability-project) |
+| Hunar Naqsha | Google AI Seekho. people who need a craft, makers already booked | [code](https://github.com/Saadia-Asghar/Hunar-Naqsha) |
+
+</td>
+  </tr>
+</table>
+
+<br />
+
+<!-- ============================== DESIGN SIDE (added) ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=hey%2C%20the%20second%20side&fontSize=42&fontAlignY=30&desc=Canva%20imagination%20%E2%86%92%20the%20colors%20in%20the%20file&descAlignY=48&animation=fadeIn&fontColor=ffffff" alt="hey, the second side" width="100%" />
+</p>
+
+<h2 align="center" id="-hey-the-design-side-">✦ hey, the design side ✦</h2>
+
+<p align="center">
+  <sub>the one other side. Canva is where the imagination becomes the color, then the file keeps it.</sub>
+</p>
+
+<p align="center">
+  <a href="https://canva.link/nllc230n1faj0h6"><img src="https://img.shields.io/badge/ACM-navy%20%23102050-102050?style=for-the-badge&labelColor=000000" alt="ACM navy" /></a>
+  <a href="https://canva.link/2gr7145jlbx0ttr"><img src="https://img.shields.io/badge/PreMed-coral%20%23f06070-f06070?style=for-the-badge&labelColor=000000" alt="PreMed coral" /></a>
+  <a href="https://canva.link/nfvzr08alsqq9r9"><img src="https://img.shields.io/badge/MLSA-ink%20%23505050-505050?style=for-the-badge&labelColor=000000" alt="MLSA ink" /></a>
+  <a href="https://canva.link/e92p1vc5liwinkp"><img src="https://img.shields.io/badge/ACM%20poster-open%20in%20Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=000000" alt="ACM poster in Canva" /></a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.figma.com/design/E9IKt31asTEeVyKS595YX3/Vyro?node-id=4-17&t=jjLeblvLTYZQ2yTd-1">
+        <img src="https://portfoliosaadia.vercel.app/design/vyrothon.png" width="180" alt="Vyrothon product design" />
+      </a>
+      <br/><sub><b>Vyrothon</b><br/>1st product design</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.figma.com/design/yw4reHaM5S3p0WADMxoo2X/Call-Pilot?node-id=11-2&t=9ir8e8FNP0r0qLEj-1">
+        <img src="https://portfoliosaadia.vercel.app/design/callpilot.png" width="180" alt="CallPilot interface" />
+      </a>
+      <br/><sub><b>CallPilot</b><br/>product screen</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://canva.link/e92p1vc5liwinkp">
+        <img src="https://portfoliosaadia.vercel.app/design/acm-wic.png" width="180" alt="ACM GIKI poster" />
+      </a>
+      <br/><sub><b>ACM GIKI</b><br/>poster</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://canva.link/2gr7145jlbx0ttr">
+        <img src="https://portfoliosaadia.vercel.app/design/premed-edu-1.png" width="180" alt="PreMed.PK education deck" />
+      </a>
+      <br/><sub><b>PreMed.PK</b><br/>education deck</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.figma.com/design/ZZ259rh7azNEfkHnmRLywl/ChainTicket?node-id=0-1&t=EadmwPrVzE99VRTb-1">
+        <img src="https://portfoliosaadia.vercel.app/design/chainticket.png" width="180" alt="ChainTicket interface" />
+      </a>
+      <br/><sub><b>ChainTicket</b><br/>product screen</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.figma.com/design/HlnuZL5J1Wk8q6xaAseJ8F/Mood-Maze?t=b3mlhQ4jSQqs94QJ-1">
+        <img src="https://portfoliosaadia.vercel.app/design/moodmaze.png" width="180" alt="MoodMaze interface" />
+      </a>
+      <br/><sub><b>MoodMaze</b><br/>product screen</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://canva.link/nfvzr08alsqq9r9">
+        <img src="https://portfoliosaadia.vercel.app/design/mlsa-panaflex.png" width="180" alt="MLSA signage" />
+      </a>
+      <br/><sub><b>MLSA</b><br/>signage</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://portfoliosaadia.vercel.app/#design">
+        <img src="https://portfoliosaadia.vercel.app/design/acm-induction.png" width="180" alt="ACM induction design" />
+      </a>
+      <br/><sub><b>the rest of the desk</b><br/>four collections</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://portfoliosaadia.vercel.app/#design">
+    <img src="https://img.shields.io/badge/design%20samples-open%20the%20desk-F59E0B?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" alt="open the design desk" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=hey%2C%20the%20research&fontSize=42&fontAlignY=30&desc=KG-RAG%20%C2%B7%20biomedical%20retrieval&descAlignY=48&animation=fadeIn&fontColor=ffffff" alt="hey, the research" width="100%" />
+</p>
+
+<h2 align="center">✦ hey, the research side ✦</h2>
+
+<p align="center">
+  <sub>KG-RAG and RMF-RAG on biomedical retrieval 🎓</sub>
+</p>
+
+<div align="center">
+
+```ansi
+[38;5;141m$[0m saadia --research
+[38;5;213m> repo: kg-rag-rmf-rag-research[0m
+[38;5;213m> pilot: KG-RAG vs RMF-RAG on biomedical retrieval[0m
+[38;5;213m> question: where retrieval stops a multi-hop answer from inventing the bridge[0m
+[38;5;213m> collab: research and projects are open[0m
+[38;5;213m> hey, let's collaborate[0m
+```
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/kg-rag-rmf-rag-research">
+    <img src="https://img.shields.io/badge/research-kg--rag--rmf--rag-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="KG-RAG research repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Saadia-Asghar/quicktalk-pinecone-memory">
+    <img src="https://img.shields.io/badge/najoomi-quicktalk%20memory-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="QuickTalk memory repo" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Najoomi · July–September 2026 · retrieval, memory layers, and that QuickTalk service</sub>
+</p>
+
+<p align="center">
+  <sub>open for research collaborations and projects</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:saadianigah@gmail.com">
+    <img src="https://img.shields.io/badge/let's%20collaborate-email%20saadia-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="let's collaborate" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Saadia-Asghar/kg-rag-rmf-rag-research">
+    <img src="https://img.shields.io/badge/research-open%20for%20collabs-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="research collaborations" />
+  </a>
+  &nbsp;
+  <a href="https://portfoliosaadia.vercel.app/#work">
+    <img src="https://img.shields.io/badge/projects-let's%20build-22C55E?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="projects" />
+  </a>
+</p>
+
+<br />
+
+<!-- ============================== ROLES (added) ============================== -->
+<h2 align="center" id="-the-roles-im-actually-in-">✦ the roles i'm actually in ✦</h2>
+
+<p align="center">
+  <sub>the group chat, but make it a table 🧃</sub>
+</p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td>
+
+| quest | class | status |
+| --- | --- | --- |
+| UROG | Director of Marketing | active · May 2026 · the post sits on the executive council · Officer Education before that |
+| Canva | Ambassador + community lead | active |
+| Replit | Campus Ambassador · HackSummer Islamabad | active |
+| atomcamp | Campus Ambassador | active |
+| GDGoC GIKI | Core team | ended |
+| Hult Prize, GIKI | Sponsorship Lead | active · Oct 2026 |
+| Microsoft Club | Head of Marketing | active |
+| Discuss | Founder | active |
+| HeyOz | Ambassador | active |
+| Comebck Pakistan | AI Fellow | ended · ranked #1 · Sweet Tooth |
+| AWS Outreach, GIKI | Outreach Lead | ended · Aug–Oct 2026 |
+| Najoomi | AI Intern | ended · Jul–Sep 2026 |
+| PreMed.PK | Design associate | ended · May 2025–Jan 2026 |
+
+</td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" alt=""/></p>
+
 <!-- ============================== SHIP LOG ============================== -->
 <h2 align="center">✦ ship log ✦</h2>
 
@@ -241,6 +520,24 @@ sleep schedule ...................................... 404 not found
 </td>
   </tr>
 </table>
+
+<br />
+
+
+<p align="center">
+  <sub>research and the other builds, linked 🔗</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/kg-rag-rmf-rag-research"><img src="https://img.shields.io/badge/KG--RAG-research-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/quicktalk-pinecone-memory"><img src="https://img.shields.io/badge/QuickTalk-pinecone-22C55E?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/Giki-Connect"><img src="https://img.shields.io/badge/GIKI--Connect-silo%20index-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/darzi-khata"><img src="https://img.shields.io/badge/Darzi%20Khata-ledger-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/DonorBridge"><img src="https://img.shields.io/badge/DonorBridge-postgres-EC4899?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/Effort_Scope"><img src="https://img.shields.io/badge/EffortScope-local-C084FC?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/water-probability-project"><img src="https://img.shields.io/badge/water-potability-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Saadia-Asghar/Hunar-Naqsha"><img src="https://img.shields.io/badge/Hunar%20Naqsha-seekho-FB7185?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+</p>
 
 <br />
 
@@ -319,6 +616,38 @@ sleep schedule ...................................... 404 not found
       <b>Imagine Cup</b><br/>
       <sub>Microsoft</sub><br/>
       <sub><i>EcoBite</i></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>🧪</h3>
+      <b>QuickTalk</b><br/>
+      <sub>Najoomi · Pinecone</sub><br/>
+      <sub><i><a href="https://github.com/Saadia-Asghar/quicktalk-pinecone-memory">memory handoff</a></i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🥇</h3>
+      <b>#1 cohort</b><br/>
+      <sub>Comebck Pakistan</sub><br/>
+      <sub><i>Sweet Tooth</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <b>memory era</b><br/>
+      <sub>Najoomi</sub><br/>
+      <sub><i>jul–sep 2026</i></sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🎓</h3>
+      <b>research</b><br/>
+      <sub>biomedical retrieval</sub><br/>
+      <sub><i><a href="https://github.com/Saadia-Asghar/kg-rag-rmf-rag-research">KG-RAG</a></i></sub>
     </td>
   </tr>
 </table>
@@ -435,6 +764,24 @@ sleep schedule ...................................... 404 not found
 <p align="center">
   <a href="https://github.com/Saadia-Asghar/Skill_issue">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=Skill_issue&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/callpilot-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=callpilot-control&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/Saadia-Asghar/Ecobite_">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=Ecobite_&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saadia-Asghar/Chain_ticket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=Chain_ticket&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/Saadia-Asghar/kg-rag-rmf-rag-research">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadia-Asghar&repo=kg-rag-rmf-rag-research&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=C9D1D9" />
   </a>
 </p>
 
@@ -631,6 +978,10 @@ sleep schedule ...................................... 404 not found
   <a href="https://saadia-asghar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-coming%20soon-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
+  <a href="https://portfoliosaadia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/live-portfoliosaadia.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+  </a>
+
   <a href="https://open.spotify.com/user/saadia" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-vibing-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=000000" />
   </a>
