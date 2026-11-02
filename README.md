@@ -289,7 +289,7 @@ sleep schedule ...................................... 404 not found
 | --- | --- | --- |
 | skil_issue | 2nd · Hack Git. teaching style that sticks, then quizzes and 1v1 blitz | [live](https://skill-issue-s1oh.vercel.app/) · [code](https://github.com/Saadia-Asghar/Skill_issue) |
 | CallPilot | Top 10 · MIT Hack-Nation. calls, memory, scheduling | [live](https://callpilot-control.vercel.app) · [code](https://github.com/Saadia-Asghar/callpilot-control) |
-| EcoBite | Imagine Cup, with Fatima Tuz Zahra. surplus food, Azure | [live](https://ecobite-iota.vercel.app) · [code](https://github.com/Saadia-Asghar/Ecobite_) |
+| EcoBite | Imagine Cup, surplus food, Azure | [live](https://ecobite-iota.vercel.app) · [code](https://github.com/Saadia-Asghar/Ecobite_) |
 | ChainTicket | 3rd · BASE Web3. tickets checked on-chain, not by screenshot | [live](https://chain-ticket.vercel.app) · [code](https://github.com/Saadia-Asghar/Chain_ticket) |
 | GIKI-Connect | who actually meets whom on campus. chi-square, k-means, a silo index | [live](https://saadia-asghar.github.io/Giki-Connect/) · [code](https://github.com/Saadia-Asghar/Giki-Connect) |
 | MoodMaze | a mood in, three films out. TMDB plus a max-heap | [live](https://moodmaze.vercel.app) · [code](https://github.com/Saadia-Asghar/Mood_Maze) |
